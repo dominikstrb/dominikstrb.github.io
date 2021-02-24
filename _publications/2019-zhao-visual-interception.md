@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-zhao-visual-interception
 date: 2019-12-12
 venue: 'Journal of Vision'
-paperurl: 'https://dominikstrb.github.io/files/2019-zhao-visual-interception.pdf'
+paperurl: 'https://jov.arvojournals.org/article.aspx?articleid=2757417'
 citation: 'Zhao, H., Straub, D., & Rothkopf, C. A. (2019). The visual control of interceptive steering: How do people steer a car to intercept a moving target?. Journal of vision, 19(14), 11-11.'
 ---
 
