@@ -1,8 +1,10 @@
 ---
-title: "Bachelor thesis"
-excerpt: "Can humans learn to deviate from the constant bearing angle strategy?"
+title: "Can humans learn to deviate from the constant bearing angle strategy?"
+excerpt: "Bachelor thesis"
 collection: portfolio
 ---
+
+Bachelor thesis with Constantin Rothkopf at TU Darmstadt
 
 [[pdf]](https://raw.githubusercontent.com/RothkopfLab/catchingballs/master/thesis.pdf) [[experiment code]](https://github.com/RothkopfLab/catchingballs)
 
