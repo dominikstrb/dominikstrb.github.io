@@ -1,7 +1,7 @@
 ---
 title: "Statistical Modeling for Cognitive Science"
 collection: teaching
-type: "Undergraduate course"
+type: "BSc course"
 permalink: /teaching/2021-summer-statmod
 venue: "TU Darmstadt"
 date: 2021-04-01
