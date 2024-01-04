@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: IMG_0177.JPG
+  image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   # address: >
   #  <p>555 your office number</p>
@@ -14,15 +14,11 @@ profile:
   #  <p>Your City, State 12345</p>
 
 
-news: false  # includes a list of news items
+news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am Dan (Alaina) Wang, a Postdoc at the [University of Copenhagen](https://www.ku.dk/english/) associated with the [AI Pioneer centre](https://www.aicentre.dk/), where I am advised by Professor [Serge Belongie](https://www.belongielab.org/). I received my Ph.D. degree from the [University of British Columbia](https://www.ubc.ca/), where I was supervised by Prof. Z. Jane Wang and Prof. Tim Salcudean. My research interests are 3D reconstruction, novel view synthesis, and explainable AI.
+I'm a PhD student in the [Psychology of Information Processing group](https://www.pip.tu-darmstadt.de/ag_pip/index.en.jsp) at the [Centre for Cognitive Science](https://www.tu-darmstadt.de/cogsci/ccs/index.en.jsp), TU Darmstadt.
 
-<!-- Prior to UBC, I received my master's degree and bachelor's degree at Beihang university. During my master period, I worked on image segmentation and sparse representation under the supervision of Prof. Zhenwei Shi. -->
-
-<!-- I am interested in probabilistic models of perception and action. While classical psychophysical experiments have largely focused on simple forced-choice decision-making using independent trials, there is a recent trend towards more naturalistic sequential tasks. To understand the uncertainties, intrinsic costs of behavior, and subjective internal models involved in these tasks, I use computational modeling techniques including inverse optimal control and Bayesian inference. -->
-
-<!-- [curriculum vitae](https://dominikstrb.github.io/assets/pdf/dominikstraub-cv.pdf) -->
+I am interested in probabilistic models of perception and action in naturalistic sequential tasks. To understand the uncertainties, intrinsic costs of behavior, and subjective internal models involved in these tasks, I use computational modeling techniques including inverse optimal control and Bayesian inference.
