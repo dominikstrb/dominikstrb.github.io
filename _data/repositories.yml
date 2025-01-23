@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - dominikstrb
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - RothkopfLab/lqg
+  - RothkopfLab/nioc
+  - RothkopfLab/naba
+  - mackelab/gp-maps-python

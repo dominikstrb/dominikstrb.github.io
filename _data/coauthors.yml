@@ -1,34 +1,31 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Rothkopf":
+  - firstname: ["Constantin", "C.", "Constantin A."]
+    url: https://www.pip.tu-darmstadt.de/ag_pip/index.en.jsp
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Zhao":
+  - firstname: ["Huaiyong", "H."]
+    url: https://scholar.google.com/citations?user=VxxD_twAAAAJ&hl=en&oi=ao
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Schultheis":
+  - firstname: ["Matthias", "M."]
+    url: https://scholar.google.com/citations?user=JqD6llUAAAAJ&hl=en&oi=ao
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Koeppl":
+  - firstname: ["Heinz", "H."]
+    url: https://www.bcs.tu-darmstadt.de/welcome/index.en.jsp
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Tatai":
+  - firstname: ["Fabian", "F."]
+    url: https://scholar.google.com/citations?user=bc97h3EAAAAJ&hl=en
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Thomas":
+  - firstname: ["Tobias", "T."]
+    url: https://scholar.google.com/citations?user=osxub1MAAAAJ&hl=en&oi=sra
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Niehues":
+  - firstname: ["Tobias", "T.", "Tobias F."]
+    url: https://tobias-niehues.com/
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Peters":
+  - firstname: ["Jan"]
+    url: https://www.ias.informatik.tu-darmstadt.de/Member/JanPeters
