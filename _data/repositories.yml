@@ -5,6 +5,6 @@ repo_description_lines_max: 2
 
 github_repos:
   - RothkopfLab/lqg
-  - RothkopfLab/nioc
+  - RothkopfLab/nioc-neurips
   - RothkopfLab/naba
   - mackelab/gp-maps-python
