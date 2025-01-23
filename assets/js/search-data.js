@@ -51,13 +51,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
-          },
         },{id: "dropdown-publications",
               title: "publications",
               description: "",
@@ -409,16 +402,44 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+    },{id: "news-new-paper-accepted-at-the-35th-conference-on-neural-information-processing-systems-neurips-matthias-schultheis-dominik-straub-constantin-a-rothkopf-inverse-optimal-control-adapted-to-the-noise-characteristics-of-the-human-sensorimotor-system",
+          title: 'New paper accepted at the 35th Conference on Neural Information Processing Systems (NeurIPS):...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-i-am-participating-in-cosyne-with-a-poster-dominik-straub-matthias-schultheis-constantin-rothkopf-inferring-implicit-sensorimotor-costs-by-inverse-optimal-control-with-signal-dependent-noise",
+          title: 'I am participating in COSYNE with a poster: Dominik Straub, Matthias Schultheis, Constantin...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-will-be-receiving-a-john-i-yellott-travel-award-at-the-2022-meeting-of-the-vision-sciences-society",
+          title: 'I will be receiving a John I. Yellott Travel Award at the 2022...',
+          description: "",
+          section: "News",},{id: "news-our-keynote-amp-amp-tutorial-putting-perception-into-action-inverse-optimal-control-for-continuous-psychophysics-has-been-accepted-to-the-2022-conference-on-cognitive-computational-neuroscience-ccn",
+          title: 'Our keynote &amp;amp;amp; tutorial ‘Putting perception into action: Inverse optimal control for continuous...',
+          description: "",
+          section: "News",},{id: "news-my-paper-with-constantin-rothkopf-putting-perception-into-action-with-inverse-optimal-control-for-continuous-psychophysics-has-been-published-in-elife",
+          title: 'My paper with Constantin Rothkopf ‘Putting perception into action with inverse optimal control...',
+          description: "",
+          section: "News",},{id: "news-our-submission-to-cogsci-2023-has-been-accepted-fabian-tatai-dominik-straub-constantin-a-rothkopf-people-use-newtonian-physics-in-intuitive-sensorimotor-decisions-under-risk",
+          title: 'Our submission to CogSci 2023 has been accepted! Fabian Tatai, Dominik Straub, Constantin...',
+          description: "",
+          section: "News",},{id: "news-new-paper-out-today-in-psychological-research-huaiyong-zhao-dominik-straub-constantin-a-rothkopf-people-learn-a-two-stage-control-for-faster-locomotor-interception",
+          title: 'New paper out today in Psychological Research: Huaiyong Zhao, Dominik Straub, Constantin A....',
+          description: "",
+          section: "News",},{id: "news-our-submission-to-neurips-2023-has-been-accepted-check-out-our-preprint-on-arxiv",
+          title: 'Our submission to NeurIPS 2023 has been accepted! Check out our preprint on...',
+          description: "",
+          section: "News",},{id: "news-new-paper-published-in-nature-human-behaviour-with-tobias-thomas-fabian-tatai-and-others-modelling-dataset-bias-in-machine-learned-theories-of-economic-decision-making",
+          title: 'New paper published in Nature Human Behaviour with Tobias Thomas, Fabian Tatai and...',
+          description: "",
+          section: "News",},{id: "news-i-will-be-at-vss-2024-with-three-abstracts-on-continuous-psychophysics-bayesian-modeling-and-intuitive-physics-write-me-an-email-if-you-want-to-meet",
+          title: 'I will be at VSS 2024 with three abstracts on continuous psychophysics, Bayesian...',
+          description: "",
+          section: "News",},{id: "news-my-paper-if-it-looks-like-online-control-it-is-probably-model-based-control-with-constantin-rothkopf-has-been-accepted-at-the-annual-meeting-of-the-cognitive-science-society-preprint-on-psyarxiv-available-now",
+          title: 'My paper “If it looks like online control, it is probably model-based control”...',
+          description: "",
+          section: "News",},{id: "news-i-submitted-my-phd-thesis-inverse-normative-modeling-of-continuous-perception-and-action-today",
+          title: 'I submitted my PhD thesis Inverse normative modeling of continuous perception and action...',
+          description: "",
+          section: "News",},{id: "news-my-shared-first-author-paper-with-tobias-niehues-inverse-decision-making-using-neural-amortized-bayesian-actors-has-been-accepted-at-the-international-conference-on-learning-representations-iclr-2025-preprint-available",
+          title: 'My shared first-author paper with Tobias Niehues “Inverse decision-making using neural amortized Bayesian...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -466,39 +487,32 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
+        id: 'social-bluesky',
+        title: 'Bluesky',
+        section: 'Socials',
+        handler: () => {
+          window.open("dominikstrb.bsky.social", "_blank");
+        },
+      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%64%6F%6D%69%6E%69%6B.%73%74%72%61%75%62@%74%75-%64%61%72%6D%73%74%61%64%74.%64%65", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://github.com/dominikstrb", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://scholar.google.com/citations?user=nU54Q7cAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
