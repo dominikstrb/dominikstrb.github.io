@@ -112,7 +112,7 @@ ninja.data = [{
         title: 'Bluesky',
         section: 'Socials',
         handler: () => {
-          window.open("dominikstrb.bsky.social", "_blank");
+          window.open("https://dominikstrb.bsky.social", "_blank");
         },
       },{
         id: 'social-email',
@@ -134,6 +134,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=nU54Q7cAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-storygraph',
+        title: 'Storygraph',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://app.thestorygraph.com/profile/dominikstrb", "_blank");
         },
       },{
       id: 'light-theme',
