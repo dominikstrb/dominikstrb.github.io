@@ -4,7 +4,7 @@
 
 # acm_id: # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
-bluesky_url: dominikstrb.bsky.social # your bluesky URL
+bluesky_url: https://dominikstrb.bsky.social # your bluesky URL
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
 email: dominik.straub@tu-darmstadt.de # your email address
@@ -49,3 +49,7 @@ scholar_userid: nU54Q7cAAAAJ # your Google Scholar ID
 #   logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
 #   title: Custom Social
 #   url: https://www.alberteinstein.com/
+storygraph: # can be any name here other than the ones already defined above
+  logo: https://upload.wikimedia.org/wikipedia/en/4/4a/Logo_for_The_StoryGraph.png # can be png, svg, jpg
+  title: The StoryGraph
+  url: https://app.thestorygraph.com/profile/dominikstrb
