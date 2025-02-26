@@ -21,5 +21,3 @@ social: true # includes social icons at the bottom of the page
 I'm a PhD candidate in the [Psychology of Information Processing group](https://www.pip.tu-darmstadt.de/ag_pip/index.en.jsp) at the [Centre for Cognitive Science](https://www.tu-darmstadt.de/cogsci/ccs/index.en.jsp), TU Darmstadt.
 
 My work is focused on probabilistic models of perception and action in naturalistic sequential tasks. To understand the uncertainties, intrinsic costs of behavior, and subjective internal models involved in these tasks, I develop and apply computational modeling techniques including inverse optimal control and Bayesian inference.
-
-I am currently looking for post-doctoral opportunities. I would like to continue working on probabilistic models of perception, cognition, and action. If you are interested in working with me, please write me an email.
