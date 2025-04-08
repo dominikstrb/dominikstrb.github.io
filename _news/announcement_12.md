@@ -5,4 +5,4 @@ inline: true
 ---
 
 
-I successfully defended my PhD thesis *Inverse normative modeling of continuous perception and action* with distinction!
+I successfully defended my PhD thesis [*Inverse normative modeling of continuous perception and action*](https://tuprints.ulb.tu-darmstadt.de/29614/) with distinction!
