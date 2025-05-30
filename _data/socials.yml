@@ -7,7 +7,7 @@
 bluesky_url: https://dominikstrb.bsky.social # your bluesky URL
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
-email: dominik.straub@tu-darmstadt.de # your email address
+email: ds2181@cam.ac.uk # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
 github_username: dominikstrb # your GitHub user name
@@ -53,3 +53,7 @@ storygraph: # can be any name here other than the ones already defined above
   logo: https://assets.thestorygraph.com/assets/logo-no-text-7334be64b3d3a1652e2a4d9bc2ce2c12fdc48c879f4503e8fa702e1b57005e40.png # can be png, svg, jpg
   title: The StoryGraph
   url: https://app.thestorygraph.com/profile/dominikstrb
+letterboxd:
+  logo: https://a.ltrbxd.com/logos/letterboxd-decal-dots-pos-mono-500px.png
+  title: letterboxd
+  url: https://letterboxd.com/enoughisenough/
