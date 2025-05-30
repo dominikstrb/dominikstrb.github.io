@@ -119,7 +119,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%64%6F%6D%69%6E%69%6B.%73%74%72%61%75%62@%74%75-%64%61%72%6D%73%74%61%64%74.%64%65", "_blank");
+          window.open("mailto:%64%73%32%31%38%31@%63%61%6D.%61%63.%75%6B", "_blank");
         },
       },{
         id: 'social-github',
@@ -141,6 +141,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://app.thestorygraph.com/profile/dominikstrb", "_blank");
+        },
+      },{
+        id: 'social-letterboxd',
+        title: 'Letterboxd',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://letterboxd.com/enoughisenough/", "_blank");
         },
       },{
       id: 'light-theme',
