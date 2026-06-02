@@ -18,6 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a postdoc in the [Computational and Biological Learning lab](https://cbl.eng.cam.ac.uk/) at the University of Cambridge, working with Máté Lengyel. Prior to that, I did my PhD with Constantin Rothkopf at the [Centre for Cognitive Science](https://www.tu-darmstadt.de/cogsci/ccs/index.en.jsp), TU Darmstadt.
+I am a Marie Skłodowska-Curie Postdoctoral Fellow in the [Computational and Biological Learning lab](https://cbl.eng.cam.ac.uk/) at the University of Cambridge, working with Máté Lengyel. Prior to that, I completed my PhD with Constantin Rothkopf at the [Centre for Cognitive Science](https://www.tu-darmstadt.de/cogsci/ccs/index.en.jsp), TU Darmstadt.
 
-My work is focused on probabilistic models of perception and action in naturalistic sequential tasks. To understand the uncertainties, intrinsic costs of behavior, and subjective internal models involved in these tasks, I develop and apply computational modeling techniques including inverse optimal control and Bayesian inference.
+My work is focused on probabilistic models of perception and action in sequential tasks. I am interested in understanding how perceptual uncertainty, task goals, and the learning of subjective internal models interact. To this end, I develop and apply computational modeling techniques including inverse optimal control and Bayesian inference.
