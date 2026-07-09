@@ -20,11 +20,12 @@ nav_order: 5
 - Summer 2020 - Experimental psychology practice
 - Summer 2020 - Statistical modeling for cognitive science
 
-## co-supervised theses
-- 2025 - Daniel Heinz (BSc thesis): Investigating Internal Representations of Bayesian Beliefs in Recurrent Neural Networks
-- 2024 - Maximilian Goschy (BSc thesis): Understanding disentangled RNNs
-- 2023 - [Tobias Niehues](https://scholar.google.com/citations?user=_RNOt8kAAAAJ&hl=en&oi=ao) (MSc thesis): Approximate Bayesian Inference of Parametric Cost Functions in Continuous Decision-Making, published at [ICLR 2025](https://proceedings.iclr.cc/paper_files/paper/2025/hash/4f7b1f51ef415f09e171f632172284ff-Abstract-Conference.html)
-- 2023 - Dominic Eckstein (BSc thesis): Steering a Car to Intercept a Moving Target in Virtual Reality: Do People Change Their Behavior When Being Rewarded?
-- 2022 - Lukas Maninger (BSc thesis): Predicting human similarity judgments with normalizing flows
-- 2022 - [Fabian Tatai](https://scholar.google.com/citations?user=bc97h3EAAAAJ&hl=en&oi=ao) (MSc thesis): Shooting pucks at targets for money: Economic and sensorimotor decision making during physical object interactions, preprint on [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.01.07.631692v2.abstract)
-- 2022 - Anna-Maria Kugler (BSc thesis): An investigation of optimality in sensorimotor actions
+## co-supervised students
+- 2025 - Jiaqi Cao (MSc student): Belief-like Representations in Recurrent Neural Networks
+- 2025 - Daniel Heinz (BSc student): Investigating Internal Representations of Bayesian Beliefs in Recurrent Neural Networks
+- 2024 - Maximilian Goschy (BSc student): Understanding disentangled RNNs
+- 2023 - [Tobias Niehues](https://scholar.google.com/citations?user=_RNOt8kAAAAJ&hl=en&oi=ao) (MSc student): Approximate Bayesian Inference of Parametric Cost Functions in Continuous Decision-Making, published at [ICLR 2025](https://proceedings.iclr.cc/paper_files/paper/2025/hash/4f7b1f51ef415f09e171f632172284ff-Abstract-Conference.html)
+- 2023 - Dominic Eckstein (BSc student): Steering a Car to Intercept a Moving Target in Virtual Reality: Do People Change Their Behavior When Being Rewarded?
+- 2022 - Lukas Maninger (BSc student): Predicting human similarity judgments with normalizing flows
+- 2022 - [Fabian Tatai](https://scholar.google.com/citations?user=bc97h3EAAAAJ&hl=en&oi=ao) (MSc student): Shooting pucks at targets for money: Economic and sensorimotor decision making during physical object interactions, preprint on [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.01.07.631692v2.abstract)
+- 2022 - Anna-Maria Kugler (BSc student): An investigation of optimality in sensorimotor actions
