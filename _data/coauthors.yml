@@ -29,3 +29,19 @@
 "Peters":
   - firstname: ["Jan"]
     url: https://www.ias.informatik.tu-darmstadt.de/Member/JanPeters
+
+"Villavicencio":
+  - firstname: ["Pamela", "P.", "Pamela S."]
+    url: https://scholar.google.com/citations?user=ngMQAzYAAAAJ&hl=en&oi=ao
+
+"Ziman":
+  - firstname: ["Mabel", "M."]
+    url: https://scholar.google.com/citations?user=YWxISjcAAAAJ&hl=en&oi=ao
+
+"Tsay":
+  - firstname: ["Jonathan", "J.", "Jonathan S."]
+    url: https://www.tsaylab.com/
+
+"de la Malla":
+  - firstname: ["Cristina", "C."]
+    url: https://scholar.google.com/citations?user=r3Zo2SMAAAAJ&hl=ca
