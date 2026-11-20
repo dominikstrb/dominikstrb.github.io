@@ -124,7 +124,7 @@ ninja.data = [{
         title: 'Bluesky',
         section: 'Socials',
         handler: () => {
-          window.open("https://dominikstrb.bsky.social", "_blank");
+          window.open("https://dominikstrb.eurosky.social", "_blank");
         },
       },{
         id: 'social-email',
