@@ -50,10 +50,10 @@ scholar_userid: nU54Q7cAAAAJ # your Google Scholar ID
 #   title: Custom Social
 #   url: https://www.alberteinstein.com/
 storygraph: # can be any name here other than the ones already defined above
-  logo: https://assets.thestorygraph.com/assets/logo-no-text-7334be64b3d3a1652e2a4d9bc2ce2c12fdc48c879f4503e8fa702e1b57005e40.png # can be png, svg, jpg
+  logo: fa-solid fa-book-open # Font Awesome class, so it follows the light/dark theme like the other icons
   title: The StoryGraph
   url: https://app.thestorygraph.com/profile/dominikstrb
 letterboxd:
-  logo: https://a.ltrbxd.com/logos/letterboxd-decal-dots-pos-mono-500px.png
+  logo: fa-brands fa-letterboxd
   title: letterboxd
   url: https://letterboxd.com/enoughisenough/
