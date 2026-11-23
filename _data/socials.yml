@@ -49,10 +49,6 @@ scholar_userid: nU54Q7cAAAAJ # your Google Scholar ID
 #   logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
 #   title: Custom Social
 #   url: https://www.alberteinstein.com/
-storygraph: # can be any name here other than the ones already defined above
-  logo: fa-solid fa-book-open # Font Awesome class, so it follows the light/dark theme like the other icons
-  title: The StoryGraph
-  url: https://app.thestorygraph.com/profile/dominikstrb
 letterboxd:
   logo: fa-brands fa-letterboxd
   title: letterboxd
